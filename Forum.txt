@@ -1,3 +1,32 @@
+#TOPIC
+
+  "For the success of Fit India movement, it is critical that the message disseminates to every part of the country. Achieving an ambitious task of such scale would require the 
+  utilization of a highly scalable, reliable and affordable messaging medium which is also easily accessible to the larger section of society. In the modern day and age, 
+  Smartphone apps provide the perfect platform to implement the vision of Fit India and make it a truly national movement. India has an estimated Smartphones user of more than 
+  500 million with an urban penetration of close to 65%. Smartphone users are spread across the entire demographic of the population which makes it the perfect vehicle for 
+  reaching out to every section of society with a common message. 
+
+
+
+  Objectives are: 
+
+
+  1. Design and develop a mobile application for tracking the physical activity of each user. 
+
+  2. Develop a framework for providing credits/ points to each suer based on their physical activity assuming each user will engage in different kind of physical activities 
+  such as walking, running, cycling, calisthenics, functional training, weight training etc. 
+
+  3. The proposed application should integrate seamlessly with existing popular mobile applications available in the market 
+
+  4. Devise mechanism to provide social recognition and rewards to most physically active users through social media integration 
+
+  5. Create an online community of active users participating in different physical activities by adopting different techniques for user engagement and user retention on the 
+  platform."
+
+
+
+
+
 #TASKS:
 1. NEED TEAM_NAME ASAP!!!
 2. Install Habitaca, HealthifyMe, GoogleFit and browse around
