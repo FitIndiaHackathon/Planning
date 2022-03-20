@@ -44,20 +44,27 @@ iii)ML model to predict the mental health of a person based on a quiz.(Based of 
 iv)ML model to determine and correct yoga poses.
 v)Different already given packages on common goals such as weight loss, belly fat reduction, increasing athletic prowess etc.
 
->>Awnesha:
+>>Anwesha:
+
 
 
 >>Abhinav:
 
 
 
-
 >>Vishal:
 
 
+
 >>Debarghya:
-
-
+1)Mental Health(Meditation)
+2)Modles to predict a person's body type and preferably recommend a plan
+3)Limit-breaking PvP[Duels]
+4)Motivational Quotes on openning screen / streak-breaking
+5)Motivational Wallpapers
+6)Expectation vs Reality pic using AI (similar to face app but for the whole body)
+7)Using Google Adsense to give users actual credit to purchase fitness courses(based on Abhinav's Idea)[practicality ??]
+8)RPG Gamification
 
 
 >>Abesh:
@@ -76,8 +83,10 @@ v)Different already given packages on common goals such as weight loss, belly fa
 #ROADMAP:
 
 
-Login ==> Dashboard ==> ...
-
+Login[*] ==> Dashboard (1st time tutorial)--> ...(Awareness/Home)
+                                          --> ...(Health Data/Courses)
+                                          --> ...(Discussion forum)
+                                          --> ...(Sync/Stats)
 
 
 [+]=done
