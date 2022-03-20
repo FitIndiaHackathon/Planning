@@ -38,8 +38,11 @@
 
 
 >>Kaustabh:
-
-
+i)Creating a facebook or insta page and giving shout out to the users who have achieved something like a great increase in the rate of exercise an user is doing etc etc.
+ii)Based on the credits earned we can provide ranks to the user. A threshhold can be used to mark a difference between the instructors and learners and give them some perks in the discussion forum based on it.
+iii)ML model to predict the mental health of a person based on a quiz.(Based of Debarghyas Idea)
+iv)ML model to determine and correct yoga poses.
+v)Different already given packages on common goals such as weight loss, belly fat reduction, increasing athletic prowess etc.
 
 >>Awnesha:
 
@@ -57,7 +60,7 @@
 
 
 
->>Abhesh:
+>>Abesh:
 
 
 
