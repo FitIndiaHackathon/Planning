@@ -45,6 +45,9 @@ iv)ML model to determine and correct yoga poses.
 v)Different already given packages on common goals such as weight loss, belly fat reduction, increasing athletic prowess etc.
 vi)Sleep tracking for better health.
 vii)Might be include help to better sleep and rest.
+
+
+
 >>Awnesha:
 
 
