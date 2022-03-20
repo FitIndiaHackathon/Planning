@@ -43,7 +43,8 @@ ii)Based on the credits earned we can provide ranks to the user. A threshhold ca
 iii)ML model to predict the mental health of a person based on a quiz.(Based of Debarghyas Idea)
 iv)ML model to determine and correct yoga poses.
 v)Different already given packages on common goals such as weight loss, belly fat reduction, increasing athletic prowess etc.
-
+vi)Sleep tracking for better health.
+vii)Might be include help to better sleep and rest.
 >>Awnesha:
 
 
