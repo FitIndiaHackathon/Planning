@@ -71,6 +71,7 @@ iii) Media player in app
 6)Expectation vs Reality pic using AI (similar to face app but for the whole body)
 7)Using Google Adsense to give users actual credit to purchase fitness courses(based on Abhinav's Idea)[practicality ??]
 8)RPG Gamification
+9)Map the user's movements to a game like Temple Run/Subway Surfers.
 
 
 >>Abesh:
